@@ -114,7 +114,7 @@ const whatsappBtn = document.querySelector(".whatsapp-btn");
 
 function init() {
   let postUrl = encodeURI(document.location.href);
-  let postTitle = encodeURI("Hey there,Checkout my skin type!");
+  let postTitle = encodeURI("Hey there,Checkout what type of mompreneur I am!");
   // let postImg = encodeURI(pinterestImg.src);
 
   facebookBtn.setAttribute(
